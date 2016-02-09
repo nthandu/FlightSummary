@@ -1,0 +1,5 @@
+add route London Dublin 100 150 75
+add aircraft Gulfstream-G550 8
+add airline Trevor 54
+add general Mark 35
+add loyalty Joan 56 100 FALSE TRUE
