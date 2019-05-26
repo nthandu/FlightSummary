@@ -8,6 +8,5 @@
         internal const string Loyalty = "loyalty";
         internal const string Airline = "airline";
         internal const string TestAirline = "airline test";
-        internal const string OneMoreConstant = "onemore";
     }
 }
