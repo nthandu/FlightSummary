@@ -7,5 +7,6 @@
         internal const string Add = "add";
         internal const string Loyalty = "loyalty";
         internal const string Airline = "airline";
+        internal const string TestAirline = "airline test";
     }
 }
